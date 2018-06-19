@@ -20,6 +20,9 @@
 - 23种常见的设计模式
 
 ## 自定义View知识汇总
+- View与Window的关系
+- View的渲染绘制
+- View的事件分发机制
 
 ## Android安全
 - Android 反编译实战
@@ -34,5 +37,10 @@
 - 插件化
 - 模块化
 - 组件化
+- 热修复
 
 ## android源码分析
+- App启动流程分析
+- Activity启动流程分析
+- Service启动流程分析
+- Handler源码解析（Android消息机制）
