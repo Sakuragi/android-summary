@@ -22,6 +22,8 @@
 ## 自定义View知识汇总
 
 ## Android安全
+- Android 反编译实战
+- Android 自动化加固脚本
 
 ## Android架构设计
 - MVP
