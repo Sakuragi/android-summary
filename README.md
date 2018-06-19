@@ -1,5 +1,5 @@
 # android-summary（持续更新中...）
-[TOC]
+ [TOC]
 
 # 算法
 ## 冒泡排序
