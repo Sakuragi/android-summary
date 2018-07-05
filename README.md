@@ -26,8 +26,17 @@ Android开发中的一些技术点的汇总，会按下面的图谱持续更新�
 - View与Window的关系
 - View的渲染绘制
 - View的事件分发机制
+- View的工作原理
+- 手把手教你自定义View（1）
+- 手把手教你自定义View（2）
 
 ## Android安全
+- Binder机制
+- 内存安全与优化
+- 文件加密介绍
+- Android 电话系统的安全机制
+- Android 短信系统安全机制
+- Apk的自我保护机制
 - Android 反编译实战
 - Android 自动化加固脚本
 
