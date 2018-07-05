@@ -20,7 +20,7 @@ Android开发中的一些技术点的汇总，会按下面的图谱持续更新�
 - 树
 
 ## 设计模式
-- [Java常见的设计模式](http://www.runoob.com/design-pattern/singleton-pattern.html)
+- [Java常见的设计模式汇总](http://www.runoob.com/design-pattern/singleton-pattern.html)
 
 ## 自定义View知识汇总
 - View与Window的关系
