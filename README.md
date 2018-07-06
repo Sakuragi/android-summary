@@ -49,7 +49,7 @@ Android开发中的一些技术点的汇总，会按下面的图谱持续更新�
 - 插件化
 - 模块化
 - 组件化
-- 热修复(https://github.com/Sakuragi/android-summary/blob/master/files07/%E7%BE%8E%E5%9B%A2%E7%83%AD%E6%9B%B4%E6%96%B0%E5%8E%9F%E7%90%86.md)
+- [热修复](https://github.com/Sakuragi/android-summary/blob/master/files07/%E7%BE%8E%E5%9B%A2%E7%83%AD%E6%9B%B4%E6%96%B0%E5%8E%9F%E7%90%86.md)
 
 ## Android源码分析
 - App启动流程分析
