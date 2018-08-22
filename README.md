@@ -13,11 +13,12 @@ Android开发中的一些技术点的汇总，会按下面的图谱持续更新�
 - [选择排序](https://github.com/Sakuragi/android-summary/blob/master/files01/SelectionSort.md)
 
 ## 数据结构
-- 队列
-- 集合
-- 链表、数组
-- 栈
-- 树
+- [队列](https://github.com/Sakuragi/android-summary/blob/master/files02/shujujiegou.md)
+- [集合](https://github.com/Sakuragi/android-summary/blob/master/files02/shujujiegou.md)
+- [链表](https://github.com/Sakuragi/android-summary/blob/master/files02/shujujiegou.md)
+- [数组](https://github.com/Sakuragi/android-summary/blob/master/files02/shujujiegou.md)
+- [栈](https://github.com/Sakuragi/android-summary/blob/master/files02/shujujiegou.md)
+- [树](https://github.com/Sakuragi/android-summary/blob/master/files02/shujujiegou.md)
 
 ## 设计模式
 - [Java常见的设计模式汇总](http://www.runoob.com/design-pattern/singleton-pattern.html)
