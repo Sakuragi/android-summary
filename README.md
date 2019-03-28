@@ -20,19 +20,22 @@ Android开发中的一些技术点的汇总，会按下面的图谱持续更新�
 - [栈](https://github.com/Sakuragi/android-summary/blob/master/files02/shujujiegou.md)
 - [树](https://github.com/Sakuragi/android-summary/blob/master/files02/shujujiegou.md)
 
+## 正则表达式
+- [正则表达式30分钟入门教程](https://www.cnblogs.com/deerchao/archive/2006/08/24/zhengzhe30fengzhongjiaocheng.html)
+
 ## 设计模式
 - [Java常见的设计模式汇总](http://www.runoob.com/design-pattern/singleton-pattern.html)
 
 ## 自定义View知识汇总
-- View与Window的关系
-- View的渲染绘制
+- [Activity,View与Window的关系](https://juejin.im/entry/596329686fb9a06bc903b6fd)
+- [View的渲染绘制](https://www.jianshu.com/p/1ef2a9e5aa91)
 - View的事件分发机制
 - View的工作原理
 - 手把手教你自定义View（1）
 - 手把手教你自定义View（2）
 
 ## Android安全
-- Binder机制
+- [Binder机制](https://blog.csdn.net/carson_ho/article/details/73560642)
 - 内存安全与优化
 - 文件加密介绍
 - Android 电话系统的安全机制
