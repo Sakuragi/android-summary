@@ -29,14 +29,14 @@ Android开发中的一些技术点的汇总，会按下面的图谱持续更新�
 ## 自定义View知识汇总
 - [Activity,View与Window的关系](https://juejin.im/entry/596329686fb9a06bc903b6fd)
 - [View的渲染绘制](https://www.jianshu.com/p/1ef2a9e5aa91)
-- View的事件分发机制
-- View的工作原理
-- 手把手教你自定义View（1）
-- 手把手教你自定义View（2）
+- [View的事件分发机制](https://blog.csdn.net/carson_ho/article/details/54136311)
+- [View的工作原理](https://blog.csdn.net/u012124438/article/details/71435787)
+- [自定义View知识汇总](http://www.gcssloop.com/customview/CustomViewIndex/)
+- [自定义View进阶](https://hencoder.com/)
 
 ## Android安全
 - [Binder机制](https://blog.csdn.net/carson_ho/article/details/73560642)
-- 内存安全与优化
+- [Android内存安全机制](http://gityuan.com/2016/09/17/android-lowmemorykiller/)
 - 文件加密介绍
 - Android 电话系统的安全机制
 - Android 短信系统安全机制
