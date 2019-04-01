@@ -64,3 +64,6 @@ Android开发中的一些技术点的汇总，会按下面的图谱持续更新�
 ## Android 音视频开发
 - [自定义一个视频播放器教程合集](https://blog.csdn.net/zxd1435513775/article/details/81507909)
 - 实现一个边听边缓存的音乐播放器
+
+## 其他
+- [关于OKHTTP实现POST缓存的解决方案](https://www.jianshu.com/p/cc6a36df774a)
