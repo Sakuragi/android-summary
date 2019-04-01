@@ -37,17 +37,17 @@ Android开发中的一些技术点的汇总，会按下面的图谱持续更新�
 ## Android安全
 - [Binder机制](https://blog.csdn.net/carson_ho/article/details/73560642)
 - [Android内存安全机制](http://gityuan.com/2016/09/17/android-lowmemorykiller/)
-- 文件加密介绍
-- Android 电话系统的安全机制
-- Android 短信系统安全机制
-- Apk的自我保护机制
-- Android 反编译实战
-- Android 自动化加固脚本
+- [dm-crypt加密机制](https://blog.csdn.net/sonicling/article/details/6275898)
+- [Vold机制分析](https://blog.csdn.net/jacobywu/article/details/78702103)
+- [Android 短信加密之DES](https://juejin.im/entry/57c37c9c7db2a20068081d76)
+- [Apk的自我保护机制](https://segmentfault.com/a/1190000005105973)
+- [Android 反编译实战](https://www.jianshu.com/p/9a052b4f0656)
+- [自己实现一个Android加固工具](https://www.cnblogs.com/cute/p/4809386.html)
 
 ## Android架构设计
-- MVP
-- MVVM
-- MVC
+- [MVP](https://github.com/antoniolg/androidmvp)
+- [MVVM](https://www.jianshu.com/p/996d76b2317f)
+- [MVC](https://blog.csdn.net/qq_36510659/article/details/79073021)
 
 ## Android框架
 - 插件化
