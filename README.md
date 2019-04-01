@@ -50,18 +50,17 @@ Android开发中的一些技术点的汇总，会按下面的图谱持续更新�
 - [MVC](https://blog.csdn.net/qq_36510659/article/details/79073021)
 
 ## Android框架
-- 插件化
-- 模块化
-- 组件化
+- [插件化](https://cloud.tencent.com/developer/article/10718150)
+- [组件化](https://www.jianshu.com/p/186fa07fc48a)
 - [热修复](https://github.com/Sakuragi/android-summary/blob/master/files07/%E7%BE%8E%E5%9B%A2%E7%83%AD%E6%9B%B4%E6%96%B0%E5%8E%9F%E7%90%86.md)
 
 ## Android源码分析
-- App启动流程分析
-- Activity启动流程分析
-- Service启动流程分析
-- Handler源码解析（Android消息机制）
-- OkHttp源码分析
+- [App启动流程分析](https://blog.csdn.net/bfboys/article/details/52564531)
+- [Activity启动流程分析](https://www.jianshu.com/p/9ecea420eb52)
+- [Service启动流程分析](https://blog.csdn.net/freekiteyu/article/details/79785720)
+- [Handler源码解析（Android消息机制）](https://www.jianshu.com/p/6f25729ef62a)
+- [OkHttp源码分析](https://www.jianshu.com/p/37e26f4ea57b)
 
 ## Android 音视频开发
-- 音视频概念基础
+- [自定义一个视频播放器教程合集](https://blog.csdn.net/zxd1435513775/article/details/81507909)
 - 实现一个边听边缓存的音乐播放器
