@@ -43,6 +43,7 @@ Android开发中的一些技术点的汇总，会按下面的图谱持续更新�
 - [Apk的自我保护机制](https://segmentfault.com/a/1190000005105973)
 - [Android 反编译实战](https://www.jianshu.com/p/9a052b4f0656)
 - [自己实现一个Android加固工具](https://www.cnblogs.com/cute/p/4809386.html)
+- [Android恶意软件沙盒自动化分析原理与实现](http://riusksk.me/2012/10/02/android_malware_sandbox/)
 
 ## Android架构设计
 - [MVP](https://github.com/antoniolg/androidmvp)
