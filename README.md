@@ -45,6 +45,11 @@ Android开发中的一些技术点的汇总，会按下面的图谱持续更新�
 - [自己实现一个Android加固工具](https://www.cnblogs.com/cute/p/4809386.html)
 - [Android恶意软件沙盒自动化分析原理与实现](http://riusksk.me/2012/10/02/android_malware_sandbox/)
 - [Android系统分区简述](https://github.com/Sakuragi/android-summary/blob/master/files06/partition.md)
+- [指令抽离加固方案解析](http://www.520monkey.com/archives/1118)
+- [dex文件结构](https://blog.csdn.net/sinat_18268881/article/details/55832757)
+- [HTTP API接口安全设计](https://www.cnblogs.com/wintersun/p/6155255.html)
+- [Android勒索病毒分析](https://paper.seebug.org/1085/)
+- [Hook 检测／修复](https://www.kancloud.cn/alex_wsc/android/506830)
 
 ## Android架构设计
 - [MVP](https://github.com/antoniolg/androidmvp)
