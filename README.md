@@ -11,6 +11,7 @@ Android开发中的一些技术点的汇总，会按下面的图谱持续更新�
 - [堆排序](https://github.com/Sakuragi/android-summary/blob/master/files01/HeapSort.md)
 - [归并排序](https://github.com/Sakuragi/android-summary/blob/master/files01/MergeSort.md)
 - [选择排序](https://github.com/Sakuragi/android-summary/blob/master/files01/SelectionSort.md)
+- [相似度算法-海明距离](https://www.jianshu.com/p/2f6dd5e7e581)
 
 ## 数据结构
 - [队列](https://github.com/Sakuragi/android-summary/blob/master/files02/shujujiegou.md)
