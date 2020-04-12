@@ -13,6 +13,10 @@ Android开发中的一些技术点的汇总，会按下面的图谱持续更新�
 - [选择排序](https://github.com/Sakuragi/android-summary/blob/master/files01/SelectionSort.md)
 - [相似度算法-海明距离](https://www.jianshu.com/p/2f6dd5e7e581)
 
+## 计算机系统
+- [进程虚拟地址空间的区域划分](https://blog.csdn.net/qq_45224600/article/details/103227215)
+- [理解虚拟内存](https://zhuanlan.zhihu.com/p/96098896)
+
 ## 数据结构
 - [队列](https://github.com/Sakuragi/android-summary/blob/master/files02/shujujiegou.md)
 - [集合](https://github.com/Sakuragi/android-summary/blob/master/files02/shujujiegou.md)
