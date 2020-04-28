@@ -18,6 +18,11 @@ Android开发中的一些技术点的汇总，会按下面的图谱持续更新�
 - [理解虚拟内存](https://zhuanlan.zhihu.com/p/96098896)
 - [程序是如何跑起来的](https://www.jianshu.com/p/079e21d50050)
 
+## JAVA 多线程
+- [深入剖析synchronized关键字的底层原理](https://zhuanlan.zhihu.com/p/114132797)
+- [一文解决内存屏障](https://www.jianshu.com/p/64240319ed60)
+
+
 ## 数据结构
 - [队列](https://github.com/Sakuragi/android-summary/blob/master/files02/shujujiegou.md)
 - [集合](https://github.com/Sakuragi/android-summary/blob/master/files02/shujujiegou.md)
